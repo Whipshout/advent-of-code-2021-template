@@ -16,7 +16,7 @@ export AOC_SESSION={number} # cookie session value in your browser
 
 ## Get problem inputs
 ```sh
-bash fetch-input.sh {day} # current day with 2 digits, e.g 01
+bash scripts/fetch-input.sh {day} # current day with 2 digits, e.g 01
 ```
 
 ## Run problems using bash scripts
